@@ -1,0 +1,30 @@
+.img-add {
+  width: 150px;
+  height: 150px;
+  background: transparent;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: black;
+  margin-left: 2rem;
+  font-size: 100px;
+}
+
+.img-upload {
+  width: 150px;
+  height: 150px;
+  background: transparent;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: black;
+  margin-left: 2rem;
+  background-size: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-size: 100px;
+  color: transparent;
+}
+
+.container-progress{
+  margin-left: 50px;
+  margin-top: 20px;
+}
